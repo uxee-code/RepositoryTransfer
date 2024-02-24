@@ -7,11 +7,11 @@
 - Set up prefrences and permissions for the members.
 
 - ## Examples of permission are:
-- ###Projects base permissions
+- ### Projects base permissions
 - Projects created by members will default to the elected role.
-- ###Pages creation
+- ### Pages creation
 - Members will be able to publish sites with only the selected access controls.
-- ###Integration access requests
+- ### Integration access requests
 - Outside collaborators will be able to request access for GitHub or OAuth apps to access this organization and its resources
 - ###  Admin repository permissions
 - If enabled, members with admin permissions for the repository will be able to change its visibility. If disabled, only organization owners can change repository visibilities.
