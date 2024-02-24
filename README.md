@@ -23,11 +23,14 @@ Open desired Repository and go to settings--> Transfer tab, as shown in the scre
 
 Select new Owner of this repository which is, now, the Organization you picked.
 <img width="960" alt="image" src="https://github.com/uxeeCoder/RepositoryTransfer/assets/148591312/917dbd77-03d3-4cad-9a56-77df65430189">
-May take a minute before the transfer is completed
+
+- May take a minute before the transfer is completed
 <img width="960" alt="image" src="https://github.com/uxee-code/RepositoryTransfer/assets/148591312/fd8cd386-a1a2-4879-9d6a-7c2b3103b857">
-Once transfer is successfully completed, newly trasfered Repository can be found in the organization under the repositories tab!
+
+- Once transfer is successfully completed, newly trasfered Repository can be found in the organization under the repositories tab!
 <img width="960" alt="image" src="https://github.com/uxee-code/RepositoryTransfer/assets/148591312/3299a057-e709-4475-888b-b50c9dfe7325">
-Open newly transfered repository to see its contents.
+
+- Open newly transfered repository to see its contents.
 <img width="959" alt="image" src="https://github.com/uxee-code/RepositoryTransfer/assets/148591312/946eed56-4659-4871-b4b0-4be90e042ece">
 
 
